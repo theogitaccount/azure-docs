@@ -5,6 +5,7 @@ ms.date: 01/01/2023
 ms.topic: tutorial
 ---
 
+
 # Integrate Palo-Alto with Microsoft Defender for IoT
 
 This article helps you learn how to integrate and use Palo Alto with Microsoft Defender for IoT.
